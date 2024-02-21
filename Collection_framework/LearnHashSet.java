@@ -23,5 +23,6 @@ public class LearnHashSet {
         System.out.println(set.size()); // tell us the size of set
         set.clear(); // empty the set
         System.out.println(set);
+        // clear, find, add -> TC(O(1)) | very optimized
     }
 }
