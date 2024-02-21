@@ -16,7 +16,7 @@ public class LearnLinkedListQueue {
         System.out.println(queue.poll());
         System.out.println(queue);
 
-        // peek() -> it'll tell us which element will be removed next
+        // peek() -> it'll tell us which element will be removed/pop next
         System.out.println(queue.peek());
     }
 }
