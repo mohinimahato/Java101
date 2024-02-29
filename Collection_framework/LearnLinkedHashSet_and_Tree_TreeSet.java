@@ -35,7 +35,7 @@ public class LearnLinkedHashSet_and_Tree_TreeSet {
         tset.add(10);
         System.out.println(tset);
         // output -> [2, 3, 10, 32, 44]
-        // clear, find, add -> TC(O(1))
+        // clear, find, add -> TC(O(logN))
 
     }
 }
